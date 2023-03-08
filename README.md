@@ -9,7 +9,7 @@ Currently it only supports opening a file in your current directory.
 
 ## Installation
 
-You can simply download createnote.sh file and make it executable
+You can simply download the createnote.sh file and make it executable
 
 ```
 > git clone https://github.com/dajabe/createnote.git
