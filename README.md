@@ -40,6 +40,5 @@ This allows me to do something like
 For me this opens neovim with the filename `YYYY-MM-DD_daily_reflections.md`
 
 
-There are otherways to set this up but that's what works for me right now.
-Feel free to submit PRs for the README if you want offer some alternatives
+This is what works for me right now. Feel free to submit PRs for the README if you want offer some alternatives
 
